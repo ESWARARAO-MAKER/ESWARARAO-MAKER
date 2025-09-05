@@ -9,7 +9,7 @@ Currently working at **Bookingjini**, building scalable SaaS platforms, property
 - 💼 Software Engineer at **Bookingjini**  
 - 🛠 Skilled in **MERN Stack, GoLang, React Native, Spring Boot, Redis**  
 - 🤖 Passionate about **AI Agents, Chatbots, Voice Assistants, and Automation**  
-- 🌐 Experienced in **System Design, Cloud Deployment, Payment Integrations, and RBAC**  
+- 🌐 Experienced in **System Design, Cloud Deployment, Payment Integrations**  
 - 📈 Contributed to products like **Aura PMS, Extranet, Adiona, and AI-powered POCs**  
 
 ---
